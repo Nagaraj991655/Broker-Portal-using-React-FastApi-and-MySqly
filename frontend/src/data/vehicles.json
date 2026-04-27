@@ -1,0 +1,2252 @@
+[
+  {
+    "id": 1,
+    "year": 2020,
+    "make": "Acura",
+    "model": "ILX"
+  },
+  {
+    "id": 2,
+    "year": 2020,
+    "make": "Acura",
+    "model": "MDX"
+  },
+  {
+    "id": 3,
+    "year": 2020,
+    "make": "Acura",
+    "model": "MDX Sport Hybrid"
+  },
+  {
+    "id": 4,
+    "year": 2020,
+    "make": "Acura",
+    "model": "NSX"
+  },
+  {
+    "id": 5,
+    "year": 2020,
+    "make": "Acura",
+    "model": "RDX"
+  },
+  {
+    "id": 6,
+    "year": 2020,
+    "make": "Acura",
+    "model": "RLX"
+  },
+  {
+    "id": 7,
+    "year": 2020,
+    "make": "Acura",
+    "model": "RLX Sport Hybrid"
+  },
+  {
+    "id": 8,
+    "year": 2020,
+    "make": "Acura",
+    "model": "TLX"
+  },
+  {
+    "id": 9,
+    "year": 2020,
+    "make": "Alfa Romeo",
+    "model": "4C Spider"
+  },
+  {
+    "id": 10,
+    "year": 2020,
+    "make": "Alfa Romeo",
+    "model": "Giulia"
+  },
+  {
+    "id": 11,
+    "year": 2020,
+    "make": "Alfa Romeo",
+    "model": "Stelvio"
+  },
+  {
+    "id": 12,
+    "year": 2020,
+    "make": "Audi",
+    "model": "A3"
+  },
+  {
+    "id": 13,
+    "year": 2020,
+    "make": "Audi",
+    "model": "A4"
+  },
+  {
+    "id": 14,
+    "year": 2020,
+    "make": "Audi",
+    "model": "A5"
+  },
+  {
+    "id": 15,
+    "year": 2020,
+    "make": "Audi",
+    "model": "A6"
+  },
+  {
+    "id": 16,
+    "year": 2020,
+    "make": "Audi",
+    "model": "A6 allroad"
+  },
+  {
+    "id": 17,
+    "year": 2020,
+    "make": "Audi",
+    "model": "A7"
+  },
+  {
+    "id": 18,
+    "year": 2020,
+    "make": "Audi",
+    "model": "Q3"
+  },
+  {
+    "id": 19,
+    "year": 2020,
+    "make": "Audi",
+    "model": "Q5"
+  },
+  {
+    "id": 20,
+    "year": 2020,
+    "make": "Audi",
+    "model": "Q7"
+  },
+  {
+    "id": 21,
+    "year": 2020,
+    "make": "Audi",
+    "model": "Q8"
+  },
+  {
+    "id": 22,
+    "year": 2020,
+    "make": "Audi",
+    "model": "R8"
+  },
+  {
+    "id": 23,
+    "year": 2020,
+    "make": "Audi",
+    "model": "S4"
+  },
+  {
+    "id": 24,
+    "year": 2020,
+    "make": "Audi",
+    "model": "S8"
+  },
+  {
+    "id": 25,
+    "year": 2020,
+    "make": "Audi",
+    "model": "SQ5"
+  },
+  {
+    "id": 26,
+    "year": 2020,
+    "make": "Audi",
+    "model": "TT"
+  },
+  {
+    "id": 27,
+    "year": 2020,
+    "make": "BMW",
+    "model": "2 Series"
+  },
+  {
+    "id": 28,
+    "year": 2020,
+    "make": "BMW",
+    "model": "3 Series"
+  },
+  {
+    "id": 29,
+    "year": 2020,
+    "make": "BMW",
+    "model": "4 Series"
+  },
+  {
+    "id": 30,
+    "year": 2020,
+    "make": "BMW",
+    "model": "5 Series"
+  },
+  {
+    "id": 31,
+    "year": 2020,
+    "make": "BMW",
+    "model": "7 Series"
+  },
+  {
+    "id": 32,
+    "year": 2020,
+    "make": "BMW",
+    "model": "8 Series"
+  },
+  {
+    "id": 33,
+    "year": 2020,
+    "make": "BMW",
+    "model": "M2"
+  },
+  {
+    "id": 34,
+    "year": 2020,
+    "make": "BMW",
+    "model": "X1"
+  },
+  {
+    "id": 35,
+    "year": 2020,
+    "make": "BMW",
+    "model": "X2"
+  },
+  {
+    "id": 36,
+    "year": 2020,
+    "make": "BMW",
+    "model": "X3"
+  },
+  {
+    "id": 37,
+    "year": 2020,
+    "make": "BMW",
+    "model": "X3 M"
+  },
+  {
+    "id": 38,
+    "year": 2020,
+    "make": "BMW",
+    "model": "X4"
+  },
+  {
+    "id": 39,
+    "year": 2020,
+    "make": "BMW",
+    "model": "X5"
+  },
+  {
+    "id": 40,
+    "year": 2020,
+    "make": "BMW",
+    "model": "X6"
+  },
+  {
+    "id": 41,
+    "year": 2020,
+    "make": "BMW",
+    "model": "X7"
+  },
+  {
+    "id": 42,
+    "year": 2020,
+    "make": "BMW",
+    "model": "Z4"
+  },
+  {
+    "id": 43,
+    "year": 2020,
+    "make": "Buick",
+    "model": "Enclave"
+  },
+  {
+    "id": 44,
+    "year": 2020,
+    "make": "Buick",
+    "model": "Encore"
+  },
+  {
+    "id": 45,
+    "year": 2020,
+    "make": "Buick",
+    "model": "Encore GX"
+  },
+  {
+    "id": 46,
+    "year": 2020,
+    "make": "Buick",
+    "model": "Envision"
+  },
+  {
+    "id": 47,
+    "year": 2020,
+    "make": "Buick",
+    "model": "Regal Sportback"
+  },
+  {
+    "id": 48,
+    "year": 2020,
+    "make": "Buick",
+    "model": "Regal TourX"
+  },
+  {
+    "id": 49,
+    "year": 2020,
+    "make": "Cadillac",
+    "model": "CT4"
+  },
+  {
+    "id": 50,
+    "year": 2020,
+    "make": "Cadillac",
+    "model": "CT5"
+  },
+  {
+    "id": 51,
+    "year": 2020,
+    "make": "Cadillac",
+    "model": "CT6"
+  },
+  {
+    "id": 52,
+    "year": 2020,
+    "make": "Cadillac",
+    "model": "CT6-V"
+  },
+  {
+    "id": 53,
+    "year": 2020,
+    "make": "Cadillac",
+    "model": "Escalade"
+  },
+  {
+    "id": 54,
+    "year": 2020,
+    "make": "Cadillac",
+    "model": "Escalade ESV"
+  },
+  {
+    "id": 55,
+    "year": 2020,
+    "make": "Cadillac",
+    "model": "XT4"
+  },
+  {
+    "id": 56,
+    "year": 2020,
+    "make": "Cadillac",
+    "model": "XT5"
+  },
+  {
+    "id": 57,
+    "year": 2020,
+    "make": "Cadillac",
+    "model": "XT6"
+  },
+  {
+    "id": 58,
+    "year": 2020,
+    "make": "Chevrolet",
+    "model": "Blazer"
+  },
+  {
+    "id": 59,
+    "year": 2020,
+    "make": "Chevrolet",
+    "model": "Bolt EV"
+  },
+  {
+    "id": 60,
+    "year": 2020,
+    "make": "Chevrolet",
+    "model": "Camaro"
+  },
+  {
+    "id": 61,
+    "year": 2020,
+    "make": "Chevrolet",
+    "model": "Colorado Crew Cab"
+  },
+  {
+    "id": 62,
+    "year": 2020,
+    "make": "Chevrolet",
+    "model": "Colorado Extended Cab"
+  },
+  {
+    "id": 63,
+    "year": 2020,
+    "make": "Chevrolet",
+    "model": "Corvette"
+  },
+  {
+    "id": 64,
+    "year": 2020,
+    "make": "Chevrolet",
+    "model": "Equinox"
+  },
+  {
+    "id": 65,
+    "year": 2020,
+    "make": "Chevrolet",
+    "model": "Express 2500 Cargo"
+  },
+  {
+    "id": 66,
+    "year": 2020,
+    "make": "Chevrolet",
+    "model": "Express 3500 Cargo"
+  },
+  {
+    "id": 67,
+    "year": 2020,
+    "make": "Chevrolet",
+    "model": "Impala"
+  },
+  {
+    "id": 68,
+    "year": 2020,
+    "make": "Chevrolet",
+    "model": "Malibu"
+  },
+  {
+    "id": 69,
+    "year": 2020,
+    "make": "Chevrolet",
+    "model": "Silverado 1500 Crew Cab"
+  },
+  {
+    "id": 70,
+    "year": 2020,
+    "make": "Chevrolet",
+    "model": "Silverado 1500 Double Cab"
+  },
+  {
+    "id": 71,
+    "year": 2020,
+    "make": "Chevrolet",
+    "model": "Silverado 1500 Regular Cab"
+  },
+  {
+    "id": 72,
+    "year": 2020,
+    "make": "Chevrolet",
+    "model": "Silverado 2500 HD Crew Cab"
+  },
+  {
+    "id": 73,
+    "year": 2020,
+    "make": "Chevrolet",
+    "model": "Silverado 2500 HD Double Cab"
+  },
+  {
+    "id": 74,
+    "year": 2020,
+    "make": "Chevrolet",
+    "model": "Silverado 3500 HD Crew Cab"
+  },
+  {
+    "id": 75,
+    "year": 2020,
+    "make": "Chevrolet",
+    "model": "Sonic"
+  },
+  {
+    "id": 76,
+    "year": 2020,
+    "make": "Chevrolet",
+    "model": "Spark"
+  },
+  {
+    "id": 77,
+    "year": 2020,
+    "make": "Chevrolet",
+    "model": "Suburban"
+  },
+  {
+    "id": 78,
+    "year": 2020,
+    "make": "Chevrolet",
+    "model": "Tahoe"
+  },
+  {
+    "id": 79,
+    "year": 2020,
+    "make": "Chevrolet",
+    "model": "Traverse"
+  },
+  {
+    "id": 80,
+    "year": 2020,
+    "make": "Chevrolet",
+    "model": "Trax"
+  },
+  {
+    "id": 81,
+    "year": 2020,
+    "make": "Chrysler",
+    "model": "300"
+  },
+  {
+    "id": 82,
+    "year": 2020,
+    "make": "Chrysler",
+    "model": "Pacifica"
+  },
+  {
+    "id": 83,
+    "year": 2020,
+    "make": "Chrysler",
+    "model": "Pacifica Hybrid"
+  },
+  {
+    "id": 84,
+    "year": 2020,
+    "make": "Chrysler",
+    "model": "Voyager"
+  },
+  {
+    "id": 85,
+    "year": 2020,
+    "make": "Dodge",
+    "model": "Challenger"
+  },
+  {
+    "id": 86,
+    "year": 2020,
+    "make": "Dodge",
+    "model": "Charger"
+  },
+  {
+    "id": 87,
+    "year": 2020,
+    "make": "Dodge",
+    "model": "Durango"
+  },
+  {
+    "id": 88,
+    "year": 2020,
+    "make": "Dodge",
+    "model": "Grand Caravan Passenger"
+  },
+  {
+    "id": 89,
+    "year": 2020,
+    "make": "Dodge",
+    "model": "Journey"
+  },
+  {
+    "id": 90,
+    "year": 2020,
+    "make": "FIAT",
+    "model": "124 Spider"
+  },
+  {
+    "id": 91,
+    "year": 2020,
+    "make": "FIAT",
+    "model": "500L"
+  },
+  {
+    "id": 92,
+    "year": 2020,
+    "make": "FIAT",
+    "model": "500X"
+  },
+  {
+    "id": 93,
+    "year": 2020,
+    "make": "Ford",
+    "model": "EcoSport"
+  },
+  {
+    "id": 94,
+    "year": 2020,
+    "make": "Ford",
+    "model": "Edge"
+  },
+  {
+    "id": 95,
+    "year": 2020,
+    "make": "Ford",
+    "model": "Escape"
+  },
+  {
+    "id": 96,
+    "year": 2020,
+    "make": "Ford",
+    "model": "Expedition"
+  },
+  {
+    "id": 97,
+    "year": 2020,
+    "make": "Ford",
+    "model": "Expedition MAX"
+  },
+  {
+    "id": 98,
+    "year": 2020,
+    "make": "Ford",
+    "model": "Explorer"
+  },
+  {
+    "id": 99,
+    "year": 2020,
+    "make": "Ford",
+    "model": "F150 Regular Cab"
+  },
+  {
+    "id": 100,
+    "year": 2020,
+    "make": "Ford",
+    "model": "F150 Super Cab"
+  },
+  {
+    "id": 101,
+    "year": 2020,
+    "make": "Ford",
+    "model": "F150 SuperCrew Cab"
+  },
+  {
+    "id": 102,
+    "year": 2020,
+    "make": "Ford",
+    "model": "F250 Super Duty Crew Cab"
+  },
+  {
+    "id": 103,
+    "year": 2020,
+    "make": "Ford",
+    "model": "F250 Super Duty Regular Cab"
+  },
+  {
+    "id": 104,
+    "year": 2020,
+    "make": "Ford",
+    "model": "F250 Super Duty Super Cab"
+  },
+  {
+    "id": 105,
+    "year": 2020,
+    "make": "Ford",
+    "model": "F350 Super Duty Crew Cab"
+  },
+  {
+    "id": 106,
+    "year": 2020,
+    "make": "Ford",
+    "model": "F350 Super Duty Super Cab"
+  },
+  {
+    "id": 107,
+    "year": 2020,
+    "make": "Ford",
+    "model": "F450 Super Duty Crew Cab"
+  },
+  {
+    "id": 108,
+    "year": 2020,
+    "make": "Ford",
+    "model": "Fusion"
+  },
+  {
+    "id": 109,
+    "year": 2020,
+    "make": "Ford",
+    "model": "Fusion Plug-in Hybrid"
+  },
+  {
+    "id": 110,
+    "year": 2020,
+    "make": "Ford",
+    "model": "Mustang"
+  },
+  {
+    "id": 111,
+    "year": 2020,
+    "make": "Ford",
+    "model": "Ranger SuperCab"
+  },
+  {
+    "id": 112,
+    "year": 2020,
+    "make": "Ford",
+    "model": "Ranger SuperCrew"
+  },
+  {
+    "id": 113,
+    "year": 2020,
+    "make": "Ford",
+    "model": "Transit 250 Cargo Van"
+  },
+  {
+    "id": 114,
+    "year": 2020,
+    "make": "Ford",
+    "model": "Transit 350 Passenger Van"
+  },
+  {
+    "id": 115,
+    "year": 2020,
+    "make": "Ford",
+    "model": "Transit Connect Cargo Van"
+  },
+  {
+    "id": 116,
+    "year": 2020,
+    "make": "Ford",
+    "model": "Transit Connect Passenger Wagon"
+  },
+  {
+    "id": 117,
+    "year": 2020,
+    "make": "Freightliner",
+    "model": "Sprinter 1500 Cargo"
+  },
+  {
+    "id": 118,
+    "year": 2020,
+    "make": "Freightliner",
+    "model": "Sprinter 1500 Passenger"
+  },
+  {
+    "id": 119,
+    "year": 2020,
+    "make": "Freightliner",
+    "model": "Sprinter 2500 Cargo"
+  },
+  {
+    "id": 120,
+    "year": 2020,
+    "make": "Freightliner",
+    "model": "Sprinter 2500 Crew"
+  },
+  {
+    "id": 121,
+    "year": 2020,
+    "make": "Freightliner",
+    "model": "Sprinter 2500 Passenger"
+  },
+  {
+    "id": 122,
+    "year": 2020,
+    "make": "Freightliner",
+    "model": "Sprinter 3500 Cargo"
+  },
+  {
+    "id": 123,
+    "year": 2020,
+    "make": "Freightliner",
+    "model": "Sprinter 3500 Crew"
+  },
+  {
+    "id": 124,
+    "year": 2020,
+    "make": "Freightliner",
+    "model": "Sprinter 3500 XD Crew"
+  },
+  {
+    "id": 125,
+    "year": 2020,
+    "make": "Freightliner",
+    "model": "Sprinter 3500XD Cargo"
+  },
+  {
+    "id": 126,
+    "year": 2020,
+    "make": "Freightliner",
+    "model": "Sprinter 4500 Cargo"
+  },
+  {
+    "id": 127,
+    "year": 2020,
+    "make": "Freightliner",
+    "model": "Sprinter 4500 Crew"
+  },
+  {
+    "id": 131,
+    "year": 2020,
+    "make": "GMC",
+    "model": "Acadia"
+  },
+  {
+    "id": 132,
+    "year": 2020,
+    "make": "GMC",
+    "model": "Canyon Crew Cab"
+  },
+  {
+    "id": 133,
+    "year": 2020,
+    "make": "GMC",
+    "model": "Sierra 1500 Crew Cab"
+  },
+  {
+    "id": 134,
+    "year": 2020,
+    "make": "GMC",
+    "model": "Sierra 1500 Double Cab"
+  },
+  {
+    "id": 135,
+    "year": 2020,
+    "make": "GMC",
+    "model": "Sierra 1500 Regular Cab"
+  },
+  {
+    "id": 136,
+    "year": 2020,
+    "make": "GMC",
+    "model": "Sierra 2500 HD Crew Cab"
+  },
+  {
+    "id": 137,
+    "year": 2020,
+    "make": "GMC",
+    "model": "Sierra 3500 HD Crew Cab"
+  },
+  {
+    "id": 138,
+    "year": 2020,
+    "make": "GMC",
+    "model": "Terrain"
+  },
+  {
+    "id": 139,
+    "year": 2020,
+    "make": "GMC",
+    "model": "Yukon"
+  },
+  {
+    "id": 140,
+    "year": 2020,
+    "make": "GMC",
+    "model": "Yukon XL"
+  },
+  {
+    "id": 128,
+    "year": 2020,
+    "make": "Genesis",
+    "model": "G70"
+  },
+  {
+    "id": 129,
+    "year": 2020,
+    "make": "Genesis",
+    "model": "G80"
+  },
+  {
+    "id": 130,
+    "year": 2020,
+    "make": "Genesis",
+    "model": "G90"
+  },
+  {
+    "id": 141,
+    "year": 2020,
+    "make": "Honda",
+    "model": "Accord"
+  },
+  {
+    "id": 142,
+    "year": 2020,
+    "make": "Honda",
+    "model": "Accord Hybrid"
+  },
+  {
+    "id": 147,
+    "year": 2020,
+    "make": "Honda",
+    "model": "CR-V"
+  },
+  {
+    "id": 148,
+    "year": 2020,
+    "make": "Honda",
+    "model": "CR-V Hybrid"
+  },
+  {
+    "id": 143,
+    "year": 2020,
+    "make": "Honda",
+    "model": "Civic"
+  },
+  {
+    "id": 144,
+    "year": 2020,
+    "make": "Honda",
+    "model": "Civic Type R"
+  },
+  {
+    "id": 145,
+    "year": 2020,
+    "make": "Honda",
+    "model": "Clarity Fuel Cell"
+  },
+  {
+    "id": 146,
+    "year": 2020,
+    "make": "Honda",
+    "model": "Clarity Plug-in Hybrid"
+  },
+  {
+    "id": 149,
+    "year": 2020,
+    "make": "Honda",
+    "model": "Fit"
+  },
+  {
+    "id": 150,
+    "year": 2020,
+    "make": "Honda",
+    "model": "HR-V"
+  },
+  {
+    "id": 151,
+    "year": 2020,
+    "make": "Honda",
+    "model": "Insight"
+  },
+  {
+    "id": 152,
+    "year": 2020,
+    "make": "Honda",
+    "model": "Odyssey"
+  },
+  {
+    "id": 153,
+    "year": 2020,
+    "make": "Honda",
+    "model": "Passport"
+  },
+  {
+    "id": 154,
+    "year": 2020,
+    "make": "Honda",
+    "model": "Pilot"
+  },
+  {
+    "id": 155,
+    "year": 2020,
+    "make": "Honda",
+    "model": "Ridgeline"
+  },
+  {
+    "id": 156,
+    "year": 2020,
+    "make": "Hyundai",
+    "model": "Accent"
+  },
+  {
+    "id": 157,
+    "year": 2020,
+    "make": "Hyundai",
+    "model": "Elantra"
+  },
+  {
+    "id": 158,
+    "year": 2020,
+    "make": "Hyundai",
+    "model": "Elantra GT"
+  },
+  {
+    "id": 159,
+    "year": 2020,
+    "make": "Hyundai",
+    "model": "Ioniq Electric"
+  },
+  {
+    "id": 160,
+    "year": 2020,
+    "make": "Hyundai",
+    "model": "Ioniq Hybrid"
+  },
+  {
+    "id": 161,
+    "year": 2020,
+    "make": "Hyundai",
+    "model": "Ioniq Plug-in Hybrid"
+  },
+  {
+    "id": 162,
+    "year": 2020,
+    "make": "Hyundai",
+    "model": "Kona"
+  },
+  {
+    "id": 163,
+    "year": 2020,
+    "make": "Hyundai",
+    "model": "Kona Electric"
+  },
+  {
+    "id": 164,
+    "year": 2020,
+    "make": "Hyundai",
+    "model": "NEXO"
+  },
+  {
+    "id": 165,
+    "year": 2020,
+    "make": "Hyundai",
+    "model": "Palisade"
+  },
+  {
+    "id": 166,
+    "year": 2020,
+    "make": "Hyundai",
+    "model": "Santa Fe"
+  },
+  {
+    "id": 167,
+    "year": 2020,
+    "make": "Hyundai",
+    "model": "Sonata"
+  },
+  {
+    "id": 168,
+    "year": 2020,
+    "make": "Hyundai",
+    "model": "Sonata Hybrid"
+  },
+  {
+    "id": 169,
+    "year": 2020,
+    "make": "Hyundai",
+    "model": "Tucson"
+  },
+  {
+    "id": 170,
+    "year": 2020,
+    "make": "Hyundai",
+    "model": "Veloster"
+  },
+  {
+    "id": 171,
+    "year": 2020,
+    "make": "Hyundai",
+    "model": "Venue"
+  },
+  {
+    "id": 172,
+    "year": 2020,
+    "make": "INFINITI",
+    "model": "Q50"
+  },
+  {
+    "id": 173,
+    "year": 2020,
+    "make": "INFINITI",
+    "model": "Q60"
+  },
+  {
+    "id": 174,
+    "year": 2020,
+    "make": "INFINITI",
+    "model": "QX50"
+  },
+  {
+    "id": 175,
+    "year": 2020,
+    "make": "INFINITI",
+    "model": "QX60"
+  },
+  {
+    "id": 176,
+    "year": 2020,
+    "make": "INFINITI",
+    "model": "QX80"
+  },
+  {
+    "id": 177,
+    "year": 2020,
+    "make": "Jaguar",
+    "model": "E-PACE"
+  },
+  {
+    "id": 178,
+    "year": 2020,
+    "make": "Jaguar",
+    "model": "F-PACE"
+  },
+  {
+    "id": 179,
+    "year": 2020,
+    "make": "Jaguar",
+    "model": "F-TYPE"
+  },
+  {
+    "id": 180,
+    "year": 2020,
+    "make": "Jaguar",
+    "model": "I-PACE"
+  },
+  {
+    "id": 181,
+    "year": 2020,
+    "make": "Jaguar",
+    "model": "XE"
+  },
+  {
+    "id": 182,
+    "year": 2020,
+    "make": "Jaguar",
+    "model": "XF"
+  },
+  {
+    "id": 183,
+    "year": 2020,
+    "make": "Jeep",
+    "model": "Cherokee"
+  },
+  {
+    "id": 184,
+    "year": 2020,
+    "make": "Jeep",
+    "model": "Compass"
+  },
+  {
+    "id": 185,
+    "year": 2020,
+    "make": "Jeep",
+    "model": "Gladiator"
+  },
+  {
+    "id": 186,
+    "year": 2020,
+    "make": "Jeep",
+    "model": "Grand Cherokee"
+  },
+  {
+    "id": 187,
+    "year": 2020,
+    "make": "Jeep",
+    "model": "Renegade"
+  },
+  {
+    "id": 188,
+    "year": 2020,
+    "make": "Jeep",
+    "model": "Wrangler"
+  },
+  {
+    "id": 189,
+    "year": 2020,
+    "make": "Jeep",
+    "model": "Wrangler Unlimited"
+  },
+  {
+    "id": 190,
+    "year": 2020,
+    "make": "Kia",
+    "model": "Cadenza"
+  },
+  {
+    "id": 191,
+    "year": 2020,
+    "make": "Kia",
+    "model": "Forte"
+  },
+  {
+    "id": 192,
+    "year": 2020,
+    "make": "Kia",
+    "model": "K900"
+  },
+  {
+    "id": 193,
+    "year": 2020,
+    "make": "Kia",
+    "model": "Niro"
+  },
+  {
+    "id": 194,
+    "year": 2020,
+    "make": "Kia",
+    "model": "Niro EV"
+  },
+  {
+    "id": 195,
+    "year": 2020,
+    "make": "Kia",
+    "model": "Niro Plug-in Hybrid"
+  },
+  {
+    "id": 196,
+    "year": 2020,
+    "make": "Kia",
+    "model": "Optima"
+  },
+  {
+    "id": 197,
+    "year": 2020,
+    "make": "Kia",
+    "model": "Optima Hybrid"
+  },
+  {
+    "id": 198,
+    "year": 2020,
+    "make": "Kia",
+    "model": "Optima Plug-in Hybrid"
+  },
+  {
+    "id": 199,
+    "year": 2020,
+    "make": "Kia",
+    "model": "Rio"
+  },
+  {
+    "id": 200,
+    "year": 2020,
+    "make": "Kia",
+    "model": "Sedona"
+  },
+  {
+    "id": 201,
+    "year": 2020,
+    "make": "Kia",
+    "model": "Sorento"
+  },
+  {
+    "id": 202,
+    "year": 2020,
+    "make": "Kia",
+    "model": "Soul"
+  },
+  {
+    "id": 203,
+    "year": 2020,
+    "make": "Kia",
+    "model": "Sportage"
+  },
+  {
+    "id": 204,
+    "year": 2020,
+    "make": "Kia",
+    "model": "Stinger"
+  },
+  {
+    "id": 205,
+    "year": 2020,
+    "make": "Kia",
+    "model": "Telluride"
+  },
+  {
+    "id": 206,
+    "year": 2020,
+    "make": "Land Rover",
+    "model": "Defender 110"
+  },
+  {
+    "id": 207,
+    "year": 2020,
+    "make": "Land Rover",
+    "model": "Defender 90"
+  },
+  {
+    "id": 208,
+    "year": 2020,
+    "make": "Land Rover",
+    "model": "Discovery"
+  },
+  {
+    "id": 209,
+    "year": 2020,
+    "make": "Land Rover",
+    "model": "Discovery Sport"
+  },
+  {
+    "id": 210,
+    "year": 2020,
+    "make": "Land Rover",
+    "model": "Range Rover"
+  },
+  {
+    "id": 211,
+    "year": 2020,
+    "make": "Land Rover",
+    "model": "Range Rover Evoque"
+  },
+  {
+    "id": 212,
+    "year": 2020,
+    "make": "Land Rover",
+    "model": "Range Rover Sport"
+  },
+  {
+    "id": 213,
+    "year": 2020,
+    "make": "Land Rover",
+    "model": "Range Rover Velar"
+  },
+  {
+    "id": 214,
+    "year": 2020,
+    "make": "Lexus",
+    "model": "ES"
+  },
+  {
+    "id": 215,
+    "year": 2020,
+    "make": "Lexus",
+    "model": "GS"
+  },
+  {
+    "id": 216,
+    "year": 2020,
+    "make": "Lexus",
+    "model": "GX"
+  },
+  {
+    "id": 217,
+    "year": 2020,
+    "make": "Lexus",
+    "model": "IS"
+  },
+  {
+    "id": 218,
+    "year": 2020,
+    "make": "Lexus",
+    "model": "LC"
+  },
+  {
+    "id": 219,
+    "year": 2020,
+    "make": "Lexus",
+    "model": "LS"
+  },
+  {
+    "id": 220,
+    "year": 2020,
+    "make": "Lexus",
+    "model": "LX"
+  },
+  {
+    "id": 221,
+    "year": 2020,
+    "make": "Lexus",
+    "model": "NX"
+  },
+  {
+    "id": 222,
+    "year": 2020,
+    "make": "Lexus",
+    "model": "RC"
+  },
+  {
+    "id": 223,
+    "year": 2020,
+    "make": "Lexus",
+    "model": "RX"
+  },
+  {
+    "id": 224,
+    "year": 2020,
+    "make": "Lexus",
+    "model": "UX"
+  },
+  {
+    "id": 225,
+    "year": 2020,
+    "make": "Lincoln",
+    "model": "Aviator"
+  },
+  {
+    "id": 226,
+    "year": 2020,
+    "make": "Lincoln",
+    "model": "Continental"
+  },
+  {
+    "id": 227,
+    "year": 2020,
+    "make": "Lincoln",
+    "model": "Corsair"
+  },
+  {
+    "id": 228,
+    "year": 2020,
+    "make": "Lincoln",
+    "model": "MKZ"
+  },
+  {
+    "id": 229,
+    "year": 2020,
+    "make": "Lincoln",
+    "model": "Nautilus"
+  },
+  {
+    "id": 230,
+    "year": 2020,
+    "make": "Lincoln",
+    "model": "Navigator"
+  },
+  {
+    "id": 231,
+    "year": 2020,
+    "make": "Lincoln",
+    "model": "Navigator L"
+  },
+  {
+    "id": 232,
+    "year": 2020,
+    "make": "MAZDA",
+    "model": "CX-3"
+  },
+  {
+    "id": 233,
+    "year": 2020,
+    "make": "MAZDA",
+    "model": "CX-30"
+  },
+  {
+    "id": 234,
+    "year": 2020,
+    "make": "MAZDA",
+    "model": "CX-5"
+  },
+  {
+    "id": 235,
+    "year": 2020,
+    "make": "MAZDA",
+    "model": "CX-9"
+  },
+  {
+    "id": 236,
+    "year": 2020,
+    "make": "MAZDA",
+    "model": "MAZDA3"
+  },
+  {
+    "id": 237,
+    "year": 2020,
+    "make": "MAZDA",
+    "model": "MAZDA6"
+  },
+  {
+    "id": 238,
+    "year": 2020,
+    "make": "MAZDA",
+    "model": "MX-5 Miata"
+  },
+  {
+    "id": 239,
+    "year": 2020,
+    "make": "MAZDA",
+    "model": "MX-5 Miata RF"
+  },
+  {
+    "id": 271,
+    "year": 2020,
+    "make": "MINI",
+    "model": "Clubman"
+  },
+  {
+    "id": 272,
+    "year": 2020,
+    "make": "MINI",
+    "model": "Countryman"
+  },
+  {
+    "id": 273,
+    "year": 2020,
+    "make": "MINI",
+    "model": "Hardtop 2 Door"
+  },
+  {
+    "id": 274,
+    "year": 2020,
+    "make": "MINI",
+    "model": "Hardtop 4 Door"
+  },
+  {
+    "id": 240,
+    "year": 2020,
+    "make": "Mercedes-Benz",
+    "model": "A-Class"
+  },
+  {
+    "id": 241,
+    "year": 2020,
+    "make": "Mercedes-Benz",
+    "model": "C-Class"
+  },
+  {
+    "id": 242,
+    "year": 2020,
+    "make": "Mercedes-Benz",
+    "model": "CLA"
+  },
+  {
+    "id": 243,
+    "year": 2020,
+    "make": "Mercedes-Benz",
+    "model": "CLS"
+  },
+  {
+    "id": 244,
+    "year": 2020,
+    "make": "Mercedes-Benz",
+    "model": "E-Class"
+  },
+  {
+    "id": 245,
+    "year": 2020,
+    "make": "Mercedes-Benz",
+    "model": "G-Class"
+  },
+  {
+    "id": 246,
+    "year": 2020,
+    "make": "Mercedes-Benz",
+    "model": "GLA"
+  },
+  {
+    "id": 247,
+    "year": 2020,
+    "make": "Mercedes-Benz",
+    "model": "GLB"
+  },
+  {
+    "id": 248,
+    "year": 2020,
+    "make": "Mercedes-Benz",
+    "model": "GLC"
+  },
+  {
+    "id": 249,
+    "year": 2020,
+    "make": "Mercedes-Benz",
+    "model": "GLE"
+  },
+  {
+    "id": 250,
+    "year": 2020,
+    "make": "Mercedes-Benz",
+    "model": "GLS"
+  },
+  {
+    "id": 251,
+    "year": 2020,
+    "make": "Mercedes-Benz",
+    "model": "Mercedes-AMG A-Class"
+  },
+  {
+    "id": 252,
+    "year": 2020,
+    "make": "Mercedes-Benz",
+    "model": "Mercedes-AMG C-Class"
+  },
+  {
+    "id": 253,
+    "year": 2020,
+    "make": "Mercedes-Benz",
+    "model": "Mercedes-AMG CLS"
+  },
+  {
+    "id": 254,
+    "year": 2020,
+    "make": "Mercedes-Benz",
+    "model": "Mercedes-AMG GLC"
+  },
+  {
+    "id": 255,
+    "year": 2020,
+    "make": "Mercedes-Benz",
+    "model": "Mercedes-AMG GLC Coupe"
+  },
+  {
+    "id": 256,
+    "year": 2020,
+    "make": "Mercedes-Benz",
+    "model": "Metris WORKER Cargo"
+  },
+  {
+    "id": 257,
+    "year": 2020,
+    "make": "Mercedes-Benz",
+    "model": "Metris WORKER Passenger"
+  },
+  {
+    "id": 258,
+    "year": 2020,
+    "make": "Mercedes-Benz",
+    "model": "S-Class"
+  },
+  {
+    "id": 259,
+    "year": 2020,
+    "make": "Mercedes-Benz",
+    "model": "SLC"
+  },
+  {
+    "id": 260,
+    "year": 2020,
+    "make": "Mercedes-Benz",
+    "model": "Sprinter 1500 Cargo"
+  },
+  {
+    "id": 261,
+    "year": 2020,
+    "make": "Mercedes-Benz",
+    "model": "Sprinter 1500 Passenger"
+  },
+  {
+    "id": 262,
+    "year": 2020,
+    "make": "Mercedes-Benz",
+    "model": "Sprinter 2500 Cargo"
+  },
+  {
+    "id": 263,
+    "year": 2020,
+    "make": "Mercedes-Benz",
+    "model": "Sprinter 2500 Crew"
+  },
+  {
+    "id": 264,
+    "year": 2020,
+    "make": "Mercedes-Benz",
+    "model": "Sprinter 2500 Passenger"
+  },
+  {
+    "id": 265,
+    "year": 2020,
+    "make": "Mercedes-Benz",
+    "model": "Sprinter 3500 Cargo"
+  },
+  {
+    "id": 266,
+    "year": 2020,
+    "make": "Mercedes-Benz",
+    "model": "Sprinter 3500 Crew"
+  },
+  {
+    "id": 267,
+    "year": 2020,
+    "make": "Mercedes-Benz",
+    "model": "Sprinter 3500 XD Cargo"
+  },
+  {
+    "id": 268,
+    "year": 2020,
+    "make": "Mercedes-Benz",
+    "model": "Sprinter 3500 XD Crew"
+  },
+  {
+    "id": 269,
+    "year": 2020,
+    "make": "Mercedes-Benz",
+    "model": "Sprinter 4500 Cargo"
+  },
+  {
+    "id": 270,
+    "year": 2020,
+    "make": "Mercedes-Benz",
+    "model": "Sprinter 4500 Crew"
+  },
+  {
+    "id": 275,
+    "year": 2020,
+    "make": "Mitsubishi",
+    "model": "Eclipse Cross"
+  },
+  {
+    "id": 276,
+    "year": 2020,
+    "make": "Mitsubishi",
+    "model": "Mirage"
+  },
+  {
+    "id": 277,
+    "year": 2020,
+    "make": "Mitsubishi",
+    "model": "Mirage G4"
+  },
+  {
+    "id": 278,
+    "year": 2020,
+    "make": "Mitsubishi",
+    "model": "Outlander"
+  },
+  {
+    "id": 279,
+    "year": 2020,
+    "make": "Mitsubishi",
+    "model": "Outlander PHEV"
+  },
+  {
+    "id": 280,
+    "year": 2020,
+    "make": "Mitsubishi",
+    "model": "Outlander Sport"
+  },
+  {
+    "id": 281,
+    "year": 2020,
+    "make": "Nissan",
+    "model": "370Z"
+  },
+  {
+    "id": 282,
+    "year": 2020,
+    "make": "Nissan",
+    "model": "Altima"
+  },
+  {
+    "id": 283,
+    "year": 2020,
+    "make": "Nissan",
+    "model": "Armada"
+  },
+  {
+    "id": 284,
+    "year": 2020,
+    "make": "Nissan",
+    "model": "Frontier Crew Cab"
+  },
+  {
+    "id": 285,
+    "year": 2020,
+    "make": "Nissan",
+    "model": "Frontier King Cab"
+  },
+  {
+    "id": 286,
+    "year": 2020,
+    "make": "Nissan",
+    "model": "GT-R"
+  },
+  {
+    "id": 287,
+    "year": 2020,
+    "make": "Nissan",
+    "model": "Kicks"
+  },
+  {
+    "id": 288,
+    "year": 2020,
+    "make": "Nissan",
+    "model": "LEAF"
+  },
+  {
+    "id": 289,
+    "year": 2020,
+    "make": "Nissan",
+    "model": "Maxima"
+  },
+  {
+    "id": 290,
+    "year": 2020,
+    "make": "Nissan",
+    "model": "Murano"
+  },
+  {
+    "id": 291,
+    "year": 2020,
+    "make": "Nissan",
+    "model": "NV1500 Cargo"
+  },
+  {
+    "id": 292,
+    "year": 2020,
+    "make": "Nissan",
+    "model": "NV200"
+  },
+  {
+    "id": 293,
+    "year": 2020,
+    "make": "Nissan",
+    "model": "NV2500 HD Cargo"
+  },
+  {
+    "id": 294,
+    "year": 2020,
+    "make": "Nissan",
+    "model": "NV3500 HD Cargo"
+  },
+  {
+    "id": 295,
+    "year": 2020,
+    "make": "Nissan",
+    "model": "NV3500 HD Passenger"
+  },
+  {
+    "id": 296,
+    "year": 2020,
+    "make": "Nissan",
+    "model": "Pathfinder"
+  },
+  {
+    "id": 297,
+    "year": 2020,
+    "make": "Nissan",
+    "model": "Rogue"
+  },
+  {
+    "id": 298,
+    "year": 2020,
+    "make": "Nissan",
+    "model": "Rogue Sport"
+  },
+  {
+    "id": 299,
+    "year": 2020,
+    "make": "Nissan",
+    "model": "Sentra"
+  },
+  {
+    "id": 302,
+    "year": 2020,
+    "make": "Nissan",
+    "model": "TITAN XD Crew Cab"
+  },
+  {
+    "id": 300,
+    "year": 2020,
+    "make": "Nissan",
+    "model": "Titan Crew Cab"
+  },
+  {
+    "id": 301,
+    "year": 2020,
+    "make": "Nissan",
+    "model": "Titan King Cab"
+  },
+  {
+    "id": 303,
+    "year": 2020,
+    "make": "Nissan",
+    "model": "Versa"
+  },
+  {
+    "id": 304,
+    "year": 2020,
+    "make": "Porsche",
+    "model": "718 Boxster"
+  },
+  {
+    "id": 305,
+    "year": 2020,
+    "make": "Porsche",
+    "model": "718 Cayman"
+  },
+  {
+    "id": 306,
+    "year": 2020,
+    "make": "Porsche",
+    "model": "718 Spyder"
+  },
+  {
+    "id": 307,
+    "year": 2020,
+    "make": "Porsche",
+    "model": "911"
+  },
+  {
+    "id": 308,
+    "year": 2020,
+    "make": "Porsche",
+    "model": "Cayenne"
+  },
+  {
+    "id": 309,
+    "year": 2020,
+    "make": "Porsche",
+    "model": "Cayenne Coupe"
+  },
+  {
+    "id": 310,
+    "year": 2020,
+    "make": "Porsche",
+    "model": "Macan"
+  },
+  {
+    "id": 311,
+    "year": 2020,
+    "make": "Porsche",
+    "model": "Panamera"
+  },
+  {
+    "id": 312,
+    "year": 2020,
+    "make": "Porsche",
+    "model": "Taycan"
+  },
+  {
+    "id": 313,
+    "year": 2020,
+    "make": "Ram",
+    "model": "1500 Classic Crew Cab"
+  },
+  {
+    "id": 314,
+    "year": 2020,
+    "make": "Ram",
+    "model": "1500 Classic Quad Cab"
+  },
+  {
+    "id": 315,
+    "year": 2020,
+    "make": "Ram",
+    "model": "1500 Crew Cab"
+  },
+  {
+    "id": 316,
+    "year": 2020,
+    "make": "Ram",
+    "model": "1500 Quad Cab"
+  },
+  {
+    "id": 317,
+    "year": 2020,
+    "make": "Ram",
+    "model": "2500 Crew Cab"
+  },
+  {
+    "id": 318,
+    "year": 2020,
+    "make": "Ram",
+    "model": "3500 Crew Cab"
+  },
+  {
+    "id": 319,
+    "year": 2020,
+    "make": "Ram",
+    "model": "ProMaster Cargo Van"
+  },
+  {
+    "id": 320,
+    "year": 2020,
+    "make": "Ram",
+    "model": "ProMaster City"
+  },
+  {
+    "id": 321,
+    "year": 2020,
+    "make": "Subaru",
+    "model": "Ascent"
+  },
+  {
+    "id": 322,
+    "year": 2020,
+    "make": "Subaru",
+    "model": "BRZ"
+  },
+  {
+    "id": 323,
+    "year": 2020,
+    "make": "Subaru",
+    "model": "Crosstrek"
+  },
+  {
+    "id": 324,
+    "year": 2020,
+    "make": "Subaru",
+    "model": "Forester"
+  },
+  {
+    "id": 325,
+    "year": 2020,
+    "make": "Subaru",
+    "model": "Impreza"
+  },
+  {
+    "id": 326,
+    "year": 2020,
+    "make": "Subaru",
+    "model": "Legacy"
+  },
+  {
+    "id": 327,
+    "year": 2020,
+    "make": "Subaru",
+    "model": "Outback"
+  },
+  {
+    "id": 328,
+    "year": 2020,
+    "make": "Subaru",
+    "model": "WRX"
+  },
+  {
+    "id": 329,
+    "year": 2020,
+    "make": "Tesla",
+    "model": "Model 3"
+  },
+  {
+    "id": 330,
+    "year": 2020,
+    "make": "Tesla",
+    "model": "Model S"
+  },
+  {
+    "id": 331,
+    "year": 2020,
+    "make": "Tesla",
+    "model": "Model X"
+  },
+  {
+    "id": 332,
+    "year": 2020,
+    "make": "Tesla",
+    "model": "Model Y"
+  },
+  {
+    "id": 333,
+    "year": 2020,
+    "make": "Toyota",
+    "model": "4Runner"
+  },
+  {
+    "id": 334,
+    "year": 2020,
+    "make": "Toyota",
+    "model": "86"
+  },
+  {
+    "id": 335,
+    "year": 2020,
+    "make": "Toyota",
+    "model": "Avalon"
+  },
+  {
+    "id": 336,
+    "year": 2020,
+    "make": "Toyota",
+    "model": "Avalon Hybrid"
+  },
+  {
+    "id": 339,
+    "year": 2020,
+    "make": "Toyota",
+    "model": "C-HR"
+  },
+  {
+    "id": 337,
+    "year": 2020,
+    "make": "Toyota",
+    "model": "Camry"
+  },
+  {
+    "id": 338,
+    "year": 2020,
+    "make": "Toyota",
+    "model": "Camry Hybrid"
+  },
+  {
+    "id": 340,
+    "year": 2020,
+    "make": "Toyota",
+    "model": "Corolla"
+  },
+  {
+    "id": 341,
+    "year": 2020,
+    "make": "Toyota",
+    "model": "Corolla Hatchback"
+  },
+  {
+    "id": 342,
+    "year": 2020,
+    "make": "Toyota",
+    "model": "Corolla Hybrid"
+  },
+  {
+    "id": 343,
+    "year": 2020,
+    "make": "Toyota",
+    "model": "GR Supra"
+  },
+  {
+    "id": 344,
+    "year": 2020,
+    "make": "Toyota",
+    "model": "Highlander"
+  },
+  {
+    "id": 345,
+    "year": 2020,
+    "make": "Toyota",
+    "model": "Highlander Hybrid"
+  },
+  {
+    "id": 346,
+    "year": 2020,
+    "make": "Toyota",
+    "model": "Land Cruiser"
+  },
+  {
+    "id": 347,
+    "year": 2020,
+    "make": "Toyota",
+    "model": "Mirai"
+  },
+  {
+    "id": 348,
+    "year": 2020,
+    "make": "Toyota",
+    "model": "Prius"
+  },
+  {
+    "id": 349,
+    "year": 2020,
+    "make": "Toyota",
+    "model": "Prius Prime"
+  },
+  {
+    "id": 350,
+    "year": 2020,
+    "make": "Toyota",
+    "model": "RAV4"
+  },
+  {
+    "id": 351,
+    "year": 2020,
+    "make": "Toyota",
+    "model": "RAV4 Hybrid"
+  },
+  {
+    "id": 352,
+    "year": 2020,
+    "make": "Toyota",
+    "model": "Sequoia"
+  },
+  {
+    "id": 353,
+    "year": 2020,
+    "make": "Toyota",
+    "model": "Sienna"
+  },
+  {
+    "id": 354,
+    "year": 2020,
+    "make": "Toyota",
+    "model": "Tacoma Access Cab"
+  },
+  {
+    "id": 355,
+    "year": 2020,
+    "make": "Toyota",
+    "model": "Tacoma Double Cab"
+  },
+  {
+    "id": 356,
+    "year": 2020,
+    "make": "Toyota",
+    "model": "Tundra CrewMax"
+  },
+  {
+    "id": 357,
+    "year": 2020,
+    "make": "Toyota",
+    "model": "Tundra Double Cab"
+  },
+  {
+    "id": 358,
+    "year": 2020,
+    "make": "Toyota",
+    "model": "Yaris"
+  },
+  {
+    "id": 359,
+    "year": 2020,
+    "make": "Toyota",
+    "model": "Yaris Hatchback"
+  },
+  {
+    "id": 360,
+    "year": 2020,
+    "make": "Volkswagen",
+    "model": "Arteon"
+  },
+  {
+    "id": 361,
+    "year": 2020,
+    "make": "Volkswagen",
+    "model": "Atlas"
+  },
+  {
+    "id": 362,
+    "year": 2020,
+    "make": "Volkswagen",
+    "model": "Atlas Cross Sport"
+  },
+  {
+    "id": 363,
+    "year": 2020,
+    "make": "Volkswagen",
+    "model": "Golf"
+  },
+  {
+    "id": 364,
+    "year": 2020,
+    "make": "Volkswagen",
+    "model": "Golf GTI"
+  },
+  {
+    "id": 365,
+    "year": 2020,
+    "make": "Volkswagen",
+    "model": "Jetta"
+  },
+  {
+    "id": 366,
+    "year": 2020,
+    "make": "Volkswagen",
+    "model": "Jetta GLI"
+  },
+  {
+    "id": 367,
+    "year": 2020,
+    "make": "Volkswagen",
+    "model": "Passat"
+  },
+  {
+    "id": 368,
+    "year": 2020,
+    "make": "Volkswagen",
+    "model": "Tiguan"
+  },
+  {
+    "id": 369,
+    "year": 2020,
+    "make": "Volvo",
+    "model": "S60"
+  },
+  {
+    "id": 370,
+    "year": 2020,
+    "make": "Volvo",
+    "model": "S90"
+  },
+  {
+    "id": 371,
+    "year": 2020,
+    "make": "Volvo",
+    "model": "V60"
+  },
+  {
+    "id": 372,
+    "year": 2020,
+    "make": "Volvo",
+    "model": "V90"
+  },
+  {
+    "id": 373,
+    "year": 2020,
+    "make": "Volvo",
+    "model": "XC40"
+  },
+  {
+    "id": 374,
+    "year": 2020,
+    "make": "Volvo",
+    "model": "XC60"
+  },
+  {
+    "id": 375,
+    "year": 2020,
+    "make": "Volvo",
+    "model": "XC90"
+  }
+]
