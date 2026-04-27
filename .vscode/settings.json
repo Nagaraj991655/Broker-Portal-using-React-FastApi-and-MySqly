@@ -1,4 +1,0 @@
-{
-    "python-envs.defaultEnvManager": "ms-python.python:system",
-    "python.pythonPath": "./venv/Scripts/python.exe"
-}
