@@ -16,9 +16,9 @@ pipeline {
         stage('Deploy') {
             steps {
                 sh '''
-                cd /opt/Broker-Portal-using-React-FastApi-and-MySqly
+                git config --global --add safe.directory /opt/Broker-Portal-using-React-FastApi-and-MySqly || true
 
-                git pull origin main
+                cd /opt/Broker-Portal-using-React-FastApi-and-MySqly
 
                 docker compose down || true
 
@@ -29,8 +29,11 @@ pipeline {
 
         stage('Verify') {
             steps {
-                sh 'docker ps'
+                sh '''
+                docker ps
+                '''
             }
         }
     }
 }
+`
