@@ -13,16 +13,17 @@ pipeline {
             }
         }
 
-        stage('Build Images') {
-            steps {
-                sh 'docker compose build'
-            }
-        }
-
         stage('Deploy') {
             steps {
-                sh 'docker compose down || true'
-                sh 'docker compose up -d'
+                sh '''
+                cd /opt/Broker-Portal-using-React-FastApi-and-MySqly
+
+                git pull origin main
+
+                docker compose down || true
+
+                docker compose up -d --build
+                '''
             }
         }
 
